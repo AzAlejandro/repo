@@ -48,8 +48,4 @@ final_data <- gathered_data %>%
 
 #Write data as txt to upload in git
 
-<<<<<<< HEAD
-=======
-23
->>>>>>> 47936780cd0e43e6260c56b6d027abc1a6f3638d
 write.table(final_data, "./tidy_data.txt", row.names = FALSE)
