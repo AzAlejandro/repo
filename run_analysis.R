@@ -44,4 +44,4 @@ final_data <- gathered_data %>% group_by(User, Activity, key) %>%   summarise(me
 #tidyData <- dcast(gathered_data, User + Activity ~ key, mean)
 
 23
-write.table(final_data, "./final_data.txt", row.names = FALSE)
+write.table(final_data, "./tidy_data.txt", row.names = FALSE)
