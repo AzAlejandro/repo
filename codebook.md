@@ -6,7 +6,7 @@
 
 ## Summary
 
-The script on repo merge all datasets and help to obtain the mean of features who contain "mean" and "std" in description.
+The script on repo merge all datasets of  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones proyect and help to obtain the average of features who contain "mean" and "std" in description.
 
 ## Data
 ### Datasets Used
